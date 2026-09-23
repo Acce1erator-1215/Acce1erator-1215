@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">ACC — Engineering ideas into useful tools</title>
+<desc id="desc">A navy and teal banner with a subtle circuit and waveform motif.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0D1727"/><stop offset="1" stop-color="#173A46"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#B7D9DC" stroke-opacity=".065"/></pattern></defs>
+<rect width="1200" height="280" rx="18" fill="url(#bg)"/><rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+<rect x="52" y="47" width="36" height="4" rx="2" fill="#5EEAD4"/>
+<text x="52" y="89" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3" fill="#93B9C4">ELECTRICAL ENGINEERING · WEB DEVELOPMENT</text>
+<text x="48" y="166" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="76" letter-spacing="-3" fill="#F4F8FC">ACC</text>
+<text x="52" y="210" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#C4D5E1">Engineering ideas into useful tools.</text>
+<text x="52" y="248" font-family="Segoe UI,Arial,sans-serif" font-size="13" letter-spacing="1" fill="#7CA3B3">ACCE1ERATOR-1215 / YUAN ZE UNIVERSITY</text>
+<g fill="none" stroke="#5EEAD4" stroke-width="2" opacity=".65"><path d="M825 145h40l19-40 24 80 26-115 30 155 24-80h60"/><path d="M960 48h85l40 40h66" opacity=".45"/><path d="M859 230h60l22 22h160" opacity=".45"/></g>
+<g fill="#5EEAD4"><circle cx="825" cy="145" r="4"/><circle cx="1048" cy="145" r="4"/><circle cx="1151" cy="88" r="4"/><circle cx="859" cy="230" r="4"/></g>
+<circle cx="986" cy="141" r="99" fill="none" stroke="#B7D9DC" stroke-opacity=".13"/><circle cx="986" cy="141" r="117" fill="none" stroke="#B7D9DC" stroke-opacity=".06"/>
+</svg>
